@@ -5,4 +5,4 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=henninghall&repo=react-native-date-picker)](https://github.com/henninghall/react-native-date-picker)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BKJang&repo=do-you-know-vanilla)](https://github.com/BKJang/do-you-know-vanilla)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BKJang&repo=do-you-know-backend)](https://github.com/BKJang/do-you-know-backend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BKJang&repo=dev-tips)](https://github.com/BKJang/dev-tips)
